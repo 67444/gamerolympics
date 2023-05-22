@@ -1,10 +1,10 @@
-title {
+.title {
     background-color: aliceblue;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size:large;
 }
 
-main {
+.main {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
