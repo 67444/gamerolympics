@@ -1,10 +1,13 @@
-.title {
-    background-color: aliceblue;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size:large;
+header {
+    background-color:rgb(255, 255, 255);
+    text-align:center;
+    border: 8px solid rgb(21, 255, 0);
+    border-radius: 5px;
 }
 
-.main {
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-
+body {
+    color:aliceblue;
+    background-color:rgb(5, 23, 56);
+    text-align:center;
+    font-family:'Courier New', Courier, monospace
 }
